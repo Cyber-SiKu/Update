@@ -6,8 +6,7 @@
 # MODIFIED: 2017-08-15 07:40:15
 
 # pip3
-echo "!!pip3 start!!"
-sudo pip3 install -U spyder
+echo "!!pip3 start!!
 sudo pip3 install -U scipy
 sudo pip3 install -U numpy
 sudo pip3 install -U matplotlib
